@@ -1,11 +1,11 @@
-function Header(){
-const headline='Home exercises'
-return (
-<div>
-<h1>{headline}</h1>
-</div>
-	)
+import React from "react"
 
+const Header = () => {
+    return (
+        <div id="header1">
+            <h1>Home exercises</h1>
+        </div>
+    )
 }
-<hr/>
-export default Header;
+
+export default Header
