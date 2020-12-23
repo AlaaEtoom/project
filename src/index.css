@@ -1,10 +1,17 @@
 .photoContainer {
     display: flex;
     flex-direction: row;
-    margin: 40px;
+    margin: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     align-items: center;
     justify-content: center;
     border-radius: 0.5rem;
+    border: 1px solid red;
+}
+
+.homeScreen {
+    height: 100vh;
 }
 
 .photoScreen {
@@ -26,16 +33,19 @@
     text-align: center;
 }
 #footer1 {
-    text-align: left;
-    padding: 40px;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
     background-color: Gray;
 }
-#pargraph1 {
+
+/* .pargraph1 {
     color: black;
     padding: 15px;
     font-size: 20px;
     background-color: DarkSalmon;
-}
+} */
+
 #photo10 {
     margin: 40px;
     text-align: center;

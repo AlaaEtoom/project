@@ -10,7 +10,7 @@ const photos = [
         name: "Calculate Calories",
         url:
             "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMJpACkKMKhZ-vzS6jKpnE5WXilrxak0P4qQ&usqp=CAU.jpg",
-        description: "",
+        description: "    ",
         id: 2,
     },
     {
@@ -19,6 +19,7 @@ const photos = [
         description: "",
         id: 3,
     },
+    
 ]
 
 export default photos
