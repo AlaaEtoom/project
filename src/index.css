@@ -29,6 +29,10 @@
     margin-top: 10px;
 }
 
+.calender {
+    margin: 10px;
+}
+
 #header1 {
     text-align: center;
 }
@@ -57,3 +61,4 @@
 #photo12 {
     text-align: center;
 }
+
